@@ -28,13 +28,15 @@ Arduino Uno example project using DHT11
   ![library list screenshot](docs/dht_tester_example.png)
 2. That should open the example sketch.
 3. Before doing anything else, make sure you've selected the correct type - DHT11
-4. To do that, uncomment `#define DHTTYPE DHT11`
+4. To do that, uncomment `#define DHTTYPE DHT11`  
+
   ```  
 	// Uncomment whatever type you're using!
 	#define DHTTYPE DHT11   // DHT 11
 	//#define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 	//#define DHTTYPE DHT21   // DHT 21 (AM2301)
   ```
+
 5. Make sure that correct Board and Port is selected 
 6. Click Upload.
 7. Open Serial Monitor.
