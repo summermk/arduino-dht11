@@ -44,7 +44,7 @@ Arduino Uno example project using DHT11
 ### Part 2 - Circuit
 Now let's set up the circuit. This is a very simple circuit.
 Before we begin, this is the DHT11 module I'm using in this example.
-![dht11 module image](docs/dht11.jpg | width=100)
+![dht11 module image](docs/dht11.jpg)
 
 1. Set up the breadboard as following.
   ![breadboard setup image](simple_circuit/dht11_simple_bb_label.png)
@@ -56,7 +56,7 @@ Before we begin, this is the DHT11 module I'm using in this example.
 4. Make sure that the Serial monitor setup is correctly set to 9600 baud and line endings to Both NL & CR.
 5. You should see messages similar to below appear.  
 
- >  DHTxx test!
- >  Humidity: 65.00 %	Temperature: 18.00 *C 64.40 *F	Heat index: 17.55 *C 63.59 *F
- >  Humidity: 65.00 %	Temperature: 18.00 *C 64.40 *F	Heat index: 17.55 *C 63.59 *F
+ >  DHTxx test!  
+ >  Humidity: 65.00 %	Temperature: 18.00 *C 64.40 *F	Heat index: 17.55 *C 63.59 *F  
+ >  Humidity: 65.00 %	Temperature: 18.00 *C 64.40 *F	Heat index: 17.55 *C 63.59 *F  
 
