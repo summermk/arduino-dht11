@@ -43,8 +43,9 @@ Arduino Uno example project using DHT11
 
 ### Part 2 - Circuit
 Now let's set up the circuit. This is a very simple circuit.
-Before we begin, this is the DHT11 module I'm using in this example.
-![dht11 module image](docs/dht11.jpg)
+Before we begin, this is the DHT11 module I'm using in this example.  
+<img src="docs/dht11.jpg" width="250" height="360" alt="dht11 module image" />
+
 
 1. Set up the breadboard as following.
   ![breadboard setup image](simple_circuit/dht11_simple_bb_label.png)
